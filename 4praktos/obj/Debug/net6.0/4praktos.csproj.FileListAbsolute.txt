@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.AssemblyInfo.cs
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4praktos\4praktos\bin\Debug\net6.0\4praktos.exe
+C:\Users\User\source\repos\4praktos\4praktos\bin\Debug\net6.0\4praktos.deps.json
+C:\Users\User\source\repos\4praktos\4praktos\bin\Debug\net6.0\4praktos.runtimeconfig.json
+C:\Users\User\source\repos\4praktos\4praktos\bin\Debug\net6.0\4praktos.dll
+C:\Users\User\source\repos\4praktos\4praktos\bin\Debug\net6.0\4praktos.pdb
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.dll
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\refint\4praktos.dll
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.pdb
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\4praktos.genruntimeconfig.cache
+C:\Users\User\source\repos\4praktos\4praktos\obj\Debug\net6.0\ref\4praktos.dll
